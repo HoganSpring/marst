@@ -1,0 +1,9 @@
+com.creditcore.ledger.dispatchservice
+com.creditcore.ledger.dispatchservice.common.constatant
+com.creditcore.ledger.dispatchservice.controller
+com.creditcore.ledger.dispatchservice.dao
+com.creditcore.ledger.dispatchservice.entity
+com.creditcore.ledger.dispatchservice.service
+com.creditcore.ledger.dispatchservice.service.impl
+com.creditcore.ledger.services.common.dataSource
+com.creditcore.ledger.services.service
