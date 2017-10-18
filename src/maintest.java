@@ -16,6 +16,11 @@ public class maintest {
 		Child t = new Child(); // initializing sub class, should trigger super
 								// class initialization
 		System.out.println((Object) o == (Object) t);
+		
+		
+		
+		
+		
 	}
 }
 
