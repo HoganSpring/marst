@@ -16,6 +16,9 @@ import org.springframework.core.annotation.AliasFor;
 // Simulating the <UL> in HTML.
 public @interface AnnHtmlUL {
 	
+	
+	/***ddd*/
+	
 	@AliasFor(value = "attribute", attribute = "liuchunqing", annotation = AnnHtmlLI.class)
     public String value() default "";
 	@AliasFor(value = "value", attribute = "20170816", annotation = AnnHtmlLI.class)
